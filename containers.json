@@ -3,7 +3,7 @@
     "Description": "First disk",
     "Format": "ova",
     "UserBucket": {
-        "S3Bucket": "hoppo-migration",
+        "S3Bucket": "mig-dec",
         "S3Key": "ubuntu_16_04.ova"
     }
   }
