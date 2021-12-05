@@ -1,0 +1,14 @@
+AWS Certificate Manager (ACM)
+• Create, store and renew SSL/TLS X.509 certificates
+• Single domains, multiple domain names and wildcards
+Integrates with several AWS services including:
+ • Elastic Load Balancing
+ • Amazon CloudFront
+ • AWS Elastic Beanstalk
+ • AWS Nitro Enclaves
+ • AWS CloudFormation
+
+• Public certificates are signed by the AWS public Certificate Authority
+• You can also create a Private CA with ACM
+• Can then issue private certificates
+• You can also import certificates from third-party issuers
