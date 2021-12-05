@@ -9,3 +9,4 @@
 • Count – AWS WAF counts the request but doesn't determine whether to allow it or block it. With this action, AWS WAF continues processing the remaining rules in the web ACL
 • Allow – AWS WAF allows the request to be forwarded to the AWS resource for processing and response
 • Block – AWS WAF blocks the request and the AWS resource responds with an HTTP 403 (Forbidden) status code
+
